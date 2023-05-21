@@ -1,0 +1,42 @@
+#myCard {
+    height: 320px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px #888888;
+    color: rgb(231, 233, 235);
+}
+
+.image {
+    width: 200px;
+    height: 160px;
+}
+
+#title {
+    color: black;
+    font-size: x-small;
+    text-align: center;
+}
+
+.price {
+    color: rgb(95, 41, 24);
+    text-align: center;
+}
+
+.button {
+    margin-left: 50px;
+    background-color: yellow;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #888888;
+    border: none;
+}
+.button:hover {
+    background-color: rgb(207, 176, 176);
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    margin: 5px;
+    border-radius: 15px;
+}

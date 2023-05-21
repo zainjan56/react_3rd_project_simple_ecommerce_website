@@ -1,0 +1,14 @@
+.bgColor {
+    background-color: rgb(196, 205, 212);
+}
+
+.smallImage {
+    width: 4%;
+    height: 4%;
+}
+
+.Links {
+    margin: 3px;
+    text-decoration: none;
+    color: black;
+}
